@@ -1,0 +1,60 @@
+h1{
+    color:green;
+    padding:3%;
+    text-align: center;
+}
+p{
+    color:rgb(0, 140, 255);
+   
+    
+}
+*{
+
+    
+    
+    background-color:greenyellow ;
+}
+.intro{
+    font-family:'Times New Roman';
+   justify-content: space-evenly;
+   font-size: 25px;
+  
+}
+.Work{
+margin-left:80%;
+margin-right:5%;
+margin-top:10px;
+margin-bottom:15px;
+
+}
+ .Zoo{
+
+ margin-left:40% ;
+
+
+ }
+ .New{
+     margin-left:40px;
+     
+ }
+ #bro{
+color: rgb(17, 17, 16);
+line-height: 40px;
+font-family:monospace ;
+font-size: larger  ;
+ }
+
+ .hur{
+     float:right;
+ }
+ .yoo{
+     font-family: monospace;
+     font-size: larger;
+     line-height: 40px;
+ }
+ .bor{
+     float: right;
+ }
+ 
+
+ 
